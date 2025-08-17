@@ -8,6 +8,7 @@
 }
 
 dotnet ef migrations add InitIdentity
+
 dotnet ef database update
 
 
