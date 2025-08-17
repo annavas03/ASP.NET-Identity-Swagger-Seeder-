@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|c:\\users\\admin\\onedrive - itstep\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\itstep\\asp.net core web api\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|c:\\users\\admin\\onedrive - itstep\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\itstep\\asp.net core web api\\exam\\exam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|solutionrelative:exam\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|c:\\users\\admin\\onedrive - itstep\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\itstep\\asp.net core web api\\exam\\exam\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFC123F8-DB9D-4A7F-A16B-367AAAC8C7BD}|exam\\exam.csproj|solutionrelative:exam\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "exam\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "exam\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:25:02.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Program.cs",
+              "RelativeDocumentMoniker": "exam\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Program.cs",
+              "RelativeToolTip": "exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:24:27.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "exam\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive - ITSTEP\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\ItStep\\ASP.NET Core Web API\\exam\\exam\\Models\\AppUser.cs",
+              "RelativeToolTip": "exam\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T13:24:07.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
